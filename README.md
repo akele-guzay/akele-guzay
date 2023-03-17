@@ -12,5 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akele-guzay&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="test" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akele-guzay&show_icons=true&theme=gruvbox)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akele-guzay&show_icons=true&locale=en&theme=gruvbox" alt="test" /></p>
