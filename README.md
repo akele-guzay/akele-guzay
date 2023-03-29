@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋🏽, I'm Agazi</h1>
-<h3 align="center">A galavanting python, visualization & GIS enthusiast from planet earth! 🌎</h3>
+<h3 align="center">A galavanting linux, python, visualization & GIS enthusiast from planet earth! 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akele-guzay&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
 
